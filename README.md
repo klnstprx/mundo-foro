@@ -1,4 +1,4 @@
-Link de GitHub pages: https://croissanton.github.io/foro-mundo/
+Link de GitHub pages: https://croissanton.github.io/IU_PROYECTO/
 
 Deploy en local:
 ```bash
