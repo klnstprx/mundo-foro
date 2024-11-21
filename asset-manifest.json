@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/foro-mundo/static/css/main.f59b39d2.css",
-    "main.js": "/foro-mundo/static/js/main.05a6efcf.js",
+    "main.css": "/foro-mundo/static/css/main.21d3e676.css",
+    "main.js": "/foro-mundo/static/js/main.55777486.js",
     "static/js/453.bf825dcc.chunk.js": "/foro-mundo/static/js/453.bf825dcc.chunk.js",
     "static/media/bootstrap-icons.woff?": "/foro-mundo/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/foro-mundo/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/Sun.svg": "/foro-mundo/static/media/Sun.aef8f60b836976321d24aa4163dbfb7f.svg",
     "static/media/Moon.svg": "/foro-mundo/static/media/Moon.af99a536ce1d19f741275b8554beaa63.svg",
     "index.html": "/foro-mundo/index.html",
-    "main.f59b39d2.css.map": "/foro-mundo/static/css/main.f59b39d2.css.map",
-    "main.05a6efcf.js.map": "/foro-mundo/static/js/main.05a6efcf.js.map",
+    "main.21d3e676.css.map": "/foro-mundo/static/css/main.21d3e676.css.map",
+    "main.55777486.js.map": "/foro-mundo/static/js/main.55777486.js.map",
     "453.bf825dcc.chunk.js.map": "/foro-mundo/static/js/453.bf825dcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f59b39d2.css",
-    "static/js/main.05a6efcf.js"
+    "static/css/main.21d3e676.css",
+    "static/js/main.55777486.js"
   ]
 }
